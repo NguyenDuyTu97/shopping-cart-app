@@ -1,0 +1,17 @@
+*{
+    margin: auto 0;
+    padding: auto 0;
+}
+
+.w-100{
+    width: 100% !important;
+}
+
+.product-category .product-list{
+    flex: 1;
+}
+
+.product-category .product{
+    padding: 15px;
+}
+
